@@ -1,0 +1,31 @@
+.wrap {
+    background: yellow;
+    position: relative;
+    height: 700px;
+}
+
+.circle1 {
+    background: orange;
+    color: yellow;
+    font-size: 14px;
+    background-image: url("flash.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    border-radius: 165px;
+    left: 400px;
+    bottom: 530px;
+}
+
+.circle1 {}
+
+.circle1 {}
+
+.circle1 {}
+
+.circle1 {}
+
+.circle1 {}
