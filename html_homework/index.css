@@ -1,0 +1,79 @@
+body {
+    position: relative;
+}
+
+.wrap {
+    width: 1000px;
+    position: relative;
+    margin: auto;
+    background-color: #ACD6FF;
+}
+
+.block01 {
+    background-color: #003C9D;
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 800px;
+    top: 100px;
+}
+
+.info01 {
+    color: white;
+    font-size: 14pt;
+    position: absolute;
+    left: 60px;
+    top: 100px;
+}
+
+.block02 {
+    box-sizing: border-box;
+    background-color: #ECF5FF;
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    border-radius: 400px;
+    left: 100px;
+    top: 80px;
+}
+
+.introduction {
+    font-size: 18pt;
+    font-family: "Microsoft JhengHei";
+    position: absolute;
+    text-align: center;
+    left: 180px;
+    top: 70px
+}
+
+.block03 {
+    position: absolute;
+    background-image: url(keming.jpg);
+    background-size: 200px;
+    background-color: #ECF5FF;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    left: 80px;
+    top: 80px;
+}
+
+.block04 {
+    background-color: #9F35FF;
+    width: 350px;
+    height: 350px;
+    border-radius: 175px;
+    position: absolute;
+    left: -200px;
+    top: 500px;
+}
+
+.info02 {
+    color: #ACD6FF;
+    font-size: 14pt;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
