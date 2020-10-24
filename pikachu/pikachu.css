@@ -1,0 +1,130 @@
+body {
+    position: relative;
+    font-size: 16pt;
+}
+
+.wrap {
+    width: 940px;
+    position: relative;
+    margin: auto;
+    background: yellow;
+}
+
+.circle1 {
+    box-sizing: border-box;
+    background: #D94600;
+    background-image: url("flash.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    left: 100px;
+    top: -75px
+}
+
+.title {
+    color: yellow;
+    font-size: 30px;
+    position: absolute;
+    bottom: 10px;
+    left: 90px;
+}
+
+.circle2 {
+    box-sizing: border-box;
+    background: #844200;
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    border-radius: 125px;
+    top: 250px;
+    left: 50px
+}
+
+.text {
+    color: white;
+    position: absolute;
+    font-size: 14px;
+    bottom: 60px;
+    left: 25px;
+}
+
+.circle3 {
+    box-sizing: border-box;
+    background: white;
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    border-radius: 250px;
+    left: 250px;
+    top: 180px;
+}
+
+.introduction {
+    color: #844200;
+    font-size: 14pt;
+    text-align: center;
+    position: absolute;
+    left: 60px;
+    top: 70px;
+}
+
+.circle4 {
+    box-sizing: border-box;
+    background: white;
+    background-image: url("pika2.jpg");
+    background-size: 110px;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    left: 550px;
+    top: 100px;
+}
+
+.circle5 {
+    box-sizing: border-box;
+    background: #844200;
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    left: 1100px;
+    bottom: 200px;
+}
+
+.fb {
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 10px;
+    bottom: 35px;
+}
+
+.fb_image {
+    position: absolute;
+    left: 10px;
+}
+
+.circle6 {
+    background: #D94600;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    left: 200px;
+    top: 680px;
+}
+
+.by {
+    color: yellow;
+    font-size: 10px;
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+}
